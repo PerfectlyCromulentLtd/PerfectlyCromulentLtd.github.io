@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'IM Fell English Normal';
+  font-style: normal;
+  font-weight: 400;
+  src: local('IM FELL English Roman'), local('IM_FELL_English_Roman'), url(http://themes.googleusercontent.com/static/fonts/imfellenglish/v4/xwIisCqGFi8pff-oa9uSVMyhYfqH3mbn79-t0w0Xep4.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'IM Fell English Italic';
+  font-style: italic;
+  font-weight: 400;
+  src: url(http://themes.googleusercontent.com/static/fonts/imfellenglish/v4/Z3cnIAI_L3XTRfz4JuZKbuhAx3KKj4FNbQmSL-0gzbg.eot);
+  src: local('IM FELL English Italic'), local('IM_FELL_English_Italic'), url(http://themes.googleusercontent.com/static/fonts/imfellenglish/v4/Z3cnIAI_L3XTRfz4JuZKbuhAx3KKj4FNbQmSL-0gzbg.eot) format('embedded-opentype'), url(http://themes.googleusercontent.com/static/fonts/imfellenglish/v4/Z3cnIAI_L3XTRfz4JuZKblpL75J7D6p_Wd7CWKLWFR0.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Vollkorn Regular'), local('Vollkorn-Regular'), url(http://themes.googleusercontent.com/static/fonts/vollkorn/v4/BCFBp4rt5gxxFrX6F12DKvesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
