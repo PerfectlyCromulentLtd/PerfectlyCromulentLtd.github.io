@@ -3,7 +3,6 @@ body
     margin: 0px;
     background: url('../assets/tile.png') repeat fixed rgba(0,0,0, 0.5) ;
     min-height: 100%;
-    padding-bottom: 6rem;
     font-size: 13pt;
     font-family: Vollkorn;
 }
